@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Link } from "react-router-dom"; // Jeśli używasz routingu, w przeciwnym razie usuń to
+// import { Link } from "react-router-dom"; // Jeśli używasz routingu, w przeciwnym razie usuń to
 
 import StartPage from "./StartPage";
 import ForParticipants from "./ForParticipants";

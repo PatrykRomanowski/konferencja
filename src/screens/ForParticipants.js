@@ -32,7 +32,6 @@ const ForParticipants = ({ data }) => {
     company,
     selectedValue
   ) => {
-    const message = "Potwierdzamy rejestrację na konferencji UX/UI";
     try {
       //   const templateParams = {
       //     name,
@@ -101,6 +100,7 @@ const ForParticipants = ({ data }) => {
 
   const telHandler = (event) => {
     setTel(event.target.value);
+    console.log(tel);
   };
 
   const handleSubmit = (

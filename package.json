@@ -1,7 +1,7 @@
 {
   "name": "konferencja",
   "version": "0.1.0",
-  "homepage": "https://patrykromanowski.github.io/konferencja/",
+  "homepage": "https://PatrykRomanowski.github.io/konferencja/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.3",
